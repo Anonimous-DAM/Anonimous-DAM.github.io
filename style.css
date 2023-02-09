@@ -4,5 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    background: #242222;
+    background: white;
+}
+header{
+    height: 20%;
+    width: 50%;
 }
