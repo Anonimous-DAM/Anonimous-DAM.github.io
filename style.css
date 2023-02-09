@@ -6,3 +6,7 @@
 body{
     background: #242222;
 }
+header img{
+    display: block;
+    margin:auto;
+}
